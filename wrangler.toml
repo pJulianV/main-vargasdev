@@ -1,8 +1,9 @@
 name = "main-vargasdev"
 compatibility_date = "2025-07-21"
+main = "workers-site/index.js"
 
 [site]
-bucket = "./out"
+bucket = ".next"
 
 [build]
 command = "npm run build"
