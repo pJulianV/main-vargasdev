@@ -4,5 +4,10 @@
     "build": "next build && next export",
     "start": "next start",
     "deploy": "next build && next export && wrangler deploy"
+  },
+  "dependencies": {
+    "next": "^15.4.2",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
   }
 }

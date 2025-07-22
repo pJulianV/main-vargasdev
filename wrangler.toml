@@ -1,5 +1,5 @@
-name = "main-vargasdev"
-compatibility_date = "2025-07-21"
+name = "worker-name"
+compatibility_date = "2025-07-22"
 
 [site]
 bucket = "./out"
