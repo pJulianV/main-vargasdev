@@ -1,8 +1,0 @@
-name = "worker-name"
-compatibility_date = "2025-07-22"
-
-[site]
-bucket = "./out"
-
-[build]
-command = "npm run build"
