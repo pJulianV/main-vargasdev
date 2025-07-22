@@ -1,8 +1,0 @@
-name = "main-vargasdev"
-compatibility_date = "2025-07-21"
-
-[site]
-bucket = "./out"
-
-[build]
-command = "npm run build"
